@@ -1,2 +1,2 @@
-# C-learning
-c++ project
+# C/C++-learning
+record my c++ project
